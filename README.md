@@ -1,4 +1,6 @@
-# FoundryVTT Blades in the Dark character and crew sheets
+# Future WIP FoundryVTT Mountain Home (Forged in the Dark) thing
+
+## I'll work on all this later, consider everything a placeholder please
 
 <p align="center">
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/dez384/foundryvtt-blades-in-the-dark"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dez384/foundryvtt-blades-in-the-dark"> <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/dez384/foundryvtt-blades-in-the-dark/total" /> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/dez384/foundryvtt-blades-in-the-dark?label=latest%20release" /> 
